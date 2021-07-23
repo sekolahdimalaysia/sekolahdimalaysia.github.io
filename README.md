@@ -1,2 +1,0 @@
-# sekolahdimalaysia.github.io
-hallo
