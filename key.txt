@@ -1,2 +1,4 @@
 Id = AKfycbwTTQsrGttklQ8vzc30PAFeavj-uSMsanD6oElpEIXfBbEPd1oaeVNa8B3mUxV5pNBjHg
 url = https://script.google.com/macros/s/AKfycbwTTQsrGttklQ8vzc30PAFeavj-uSMsanD6oElpEIXfBbEPd1oaeVNa8B3mUxV5pNBjHg/exec
+Telegram chat id = 1871536964
+Telegram group id = -518139679
